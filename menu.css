@@ -33,7 +33,7 @@
 }
 .left_menu_top
 {
-	background-image:url(../images/bg_menu_left.png);
+	background-image:url(https://cdn.rawgit.com/dainamtourist/thuexedainam/master/bg_menu_left.png);
 	background-repeat:no-repeat;
 	width:100px;
 	height:47px;
@@ -41,7 +41,7 @@
 
 .right_menu_top
 {
-	background-image:url(../images/bg_menu_right.png);
+	background-image:url(https://cdn.rawgit.com/dainamtourist/thuexedainam/master/bg_menu_right.png);
 	background-repeat:no-repeat;
 	width:20px;
 	height:47px;
@@ -49,14 +49,14 @@
 
 .bg_menu_top
 {
-	background-image:url(../images/bg_menu_center.png);
+	background-image:url(https://cdn.rawgit.com/dainamtourist/thuexedainam/master/bg_menu_center.png);
 	background-repeat:repeat-x;
 	width:900px;
 	height:47px;
 }
 .bg_menu_top .level1:hover
 {
-	background-image:url(../images/bg_menu_right.png);
+	background-image:url(https://cdn.rawgit.com/dainamtourist/thuexedainam/master/bg_menu_right.png);
 	background-repeat:repeat-x;
 }
 
@@ -85,7 +85,7 @@
 	height:47px;
 	line-height:47px;
 	color:#ffffff;
-	background-image:url(../images/mune_line.png);
+	background-image:url(https://cdn.rawgit.com/dainamtourist/thuexedainam/master/mune_line.png);
 	background-repeat:no-repeat;
 	background-position:0px 2px;
     font-weight: 500;
