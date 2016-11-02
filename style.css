@@ -169,11 +169,10 @@ clear: both;
 
 .contents .chitiet{
     margin-top: 18px;
-    width: 60px;
+    width: 65px;
     height: 20px;
-   	background-image:url(../images/chitiet.png); 
-    background-repeat:no-repeat;
     float: right;
+background:#2679B3;
 }
 
 .contents .chitiet h4{
